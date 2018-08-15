@@ -1,5 +1,5 @@
 {
-  "name": "create-next-example-app",
+  "name": "news-apps",
   "scripts": {
     "dev": "next",
     "build": "next build",
